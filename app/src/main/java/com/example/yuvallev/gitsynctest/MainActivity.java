@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         if(true){
-            int i=10;
+            int i=50;
             System.out.println(i);
         }
     }
